@@ -1,0 +1,14 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# Environment files
+.env
+
+# OS / Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
