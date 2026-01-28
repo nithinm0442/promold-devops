@@ -12,3 +12,7 @@
 Thumbs.db
 .vscode/
 .idea/
+# Terraform bootstrap (local state only, never remote)
+Terraform-Bootstrap/terraform.tfstate
+Terraform-Bootstrap/terraform.tfstate.backup
+Terraform-Bootstrap/.terraform/
