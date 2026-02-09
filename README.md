@@ -4,7 +4,7 @@
 
 This project demonstrates a real-world DevOps implementation for **ProMold**, a remediation services business operating in the Greater Toronto Area. The goal of this project is to provision cloud infrastructure using **Terraform**, deploy a **static business website on AWS S3**, and manage the entire setup using best practices around version control, infrastructure-as-code, and incremental delivery.
 
-This repository is intentionally structured and committed in stages to reflect how production-grade infrastructure is built, tested, and evolved — not as a one-shot tutorial dump.
+This repository is intentionally structured and committed in stages to reflect how production-grade infrastructure is built, tested, and evolved not as a one-shot tutorial dump.
 
 ---
 
